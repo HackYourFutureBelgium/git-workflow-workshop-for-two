@@ -1,4 +1,4 @@
-**Author**: [@PiotrBerebecki](https://github.com/PiotrBerebecki)  
+**Author**: [@PiotrBerebecki](https://github.com/PiotrBerebecki)
 **Maintainer**: [@PiotrBerebecki](https://github.com/PiotrBerebecki)
 
 # Git Workflow Workshop for Two Programmers 💻 💻
@@ -191,7 +191,7 @@ You should never merge your own pull requests. A PR gives the rest of your team 
 
 1. Programmer 2 reviews the changes and [merges the pull request](https://help.github.com/articles/merging-a-pull-request/#merging-a-pull-request-on-github) on GitHub.com.
 
-  <img src="images/pull-request-tab.png" width="500" height="auto" alt="pull request tab button">    
+  <img src="images/pull-request-tab.png" width="500" height="auto" alt="pull request tab button">
 
 Now your remote repo looks like this: </br>
 <img src="images/step9GitFlow.png" width="400" height="auto" alt="repo visual after step 1">
@@ -215,7 +215,7 @@ When you apply the two changes above the heading will look like this:
 <img src="images/heading-after.png" width="500" height="auto" alt="git workflow workshop heading with css style">
 
 
-You decide that one of you **(Programmer 1) will resolve issue number 1** while the other person **(Programmer 2) will resolve issue number 2**. When you begin working on your weekly projects, you will always be pairing. So programmer 1 represents "pair 1" and programmer 2 represents "pair 2".
+You decide that one of you **(Programmer 1) will resolve issue number 1** while the other person **(Programmer 2) will resolve issue number 2**. So programmer 1 represents "pair 1" and programmer 2 represents "pair 2".
 
 **Note: Only one line in the `index.html` file needs to be modified.**
 
@@ -395,7 +395,7 @@ Programmer 2 [reviews the pull request](https://help.github.com/articles/about-p
 
   <img src="images/pull-request-tab.png" width="500" height="auto" alt="pull request tab button">
 
-2. Programmer 2 opens the live website on GitHub pages to double check that the spelling mistake has been corrected. Go to the repository settings on Github and scroll down until you find Github Pages title. Select the master branch as the source and save, and you'll then see the URL where the live website is. 
+2. Programmer 2 opens the live website on GitHub pages to double check that the spelling mistake has been corrected. Go to the repository settings on Github and scroll down until you find Github Pages title. Select the master branch as the source and save, and you'll then see the URL where the live website is.
 
 <img src="images/2step12GitFlow.png" width="250" height="auto" alt="repo visual after step 1">
 
@@ -499,11 +499,11 @@ Programmer 2 [reviews the pull request](https://help.github.com/articles/about-p
 
 
 <!-- ***********************************************************-->
-## That's it 😄 Thank you for checking out the 'Git Workflow Workshop for Two Programmers' :clap:  
+## That's it 😄 Thank you for checking out the 'Git Workflow Workshop for Two Programmers' :clap:
 
 ***A summary of the above commands and what they do can be found [here](/images/git-flow-summary-table.png) in a neat little table.***
 
 
-**Note**: This workshop does not introduce the very popular idea of forking a repository, which is very useful when wanting to contribute to existing open source projects 💯. Forking is not required when starting a new repository under `foundersandcoders` or `FAC-X` organisations since all your fellow students will be automatically added as contributors. 
+**Note**: This workshop does not introduce the very popular idea of forking a repository, which is very useful when wanting to contribute to existing open source projects 💯. Forking is not required when starting a new repository under `foundersandcoders` or `FAC-X` organisations since all your fellow students will be automatically added as contributors.
 
-Having said that, we recommend you read about forking to be able to contribute to open source projects. You can read more about it [here](https://help.github.com/en/articles/fork-a-repo). 
+Having said that, we recommend you read about forking to be able to contribute to open source projects. You can read more about it [here](https://help.github.com/en/articles/fork-a-repo).

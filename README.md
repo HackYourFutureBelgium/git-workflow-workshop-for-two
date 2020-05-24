@@ -1,5 +1,4 @@
 **Author**: [@PiotrBerebecki](https://github.com/PiotrBerebecki)
-**Maintainer**: [@PiotrBerebecki](https://github.com/PiotrBerebecki)
 
 # Git Workflow Workshop for Two Programmers 💻 💻
 
@@ -31,7 +30,7 @@ You're working in a team of two on a project for a new client. Steps 1 to 8 in t
 
 ## Step 1 - Programmer 1 creates a new GitHub repo and clones it
 
-1. Go to your cohort's GitHub organisation and create a new repo, initialising it with a `README.md`.
+1. Go to your GitHub account and create a new repo, initialising it with a `README.md`.
 
 2. [Clone](https://help.github.com/articles/cloning-a-repository/) this new repository using your terminal.
 
